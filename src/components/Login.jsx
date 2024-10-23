@@ -118,7 +118,7 @@ const Login = () => {
             onClick={() => setIsLoginForm((value) => !value)}
           >
             {isLoginForm
-              ? "New User? Signup Here"
+              ? "New User? Signup Here "
               : "Existing User? Login Here"}
           </p>
         </div>
